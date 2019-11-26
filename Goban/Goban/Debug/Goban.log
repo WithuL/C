@@ -1,12 +1,2 @@
 ﻿  Goban.c
-c:\users\administrator\source\repos\goban\goban\goban.c(20): warning C4013: “Init”未定义；假设外部返回 int
-c:\users\administrator\source\repos\goban\goban\goban.c(23): warning C4013: “Print”未定义；假设外部返回 int
-c:\users\administrator\source\repos\goban\goban\goban.c(25): warning C4013: “PlayerMove”未定义；假设外部返回 int
-c:\users\administrator\source\repos\goban\goban\goban.c(27): warning C4013: “Check”未定义；假设外部返回 int
-c:\users\administrator\source\repos\goban\goban\goban.c(29): warning C4013: “ComputerMove”未定义；假设外部返回 int
-Goban.obj : error LNK2019: 无法解析的外部符号 _Init，该符号在函数 _Game 中被引用
-Goban.obj : error LNK2019: 无法解析的外部符号 _Print，该符号在函数 _Game 中被引用
-Goban.obj : error LNK2019: 无法解析的外部符号 _PlayerMove，该符号在函数 _Game 中被引用
-Goban.obj : error LNK2019: 无法解析的外部符号 _Check，该符号在函数 _Game 中被引用
-Goban.obj : error LNK2019: 无法解析的外部符号 _ComputerMove，该符号在函数 _Game 中被引用
-C:\Users\Administrator\source\repos\Goban\Debug\Goban.exe : fatal error LNK1120: 5 个无法解析的外部命令
+  Goban.vcxproj -> C:\Users\Administrator\source\repos\Goban\Debug\Goban.exe
