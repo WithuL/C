@@ -1,0 +1,5 @@
+﻿  1.21.2.c
+C:\Users\WithuL\source\repos\1.21.2\1.21.2\1.21.2.c(32,22): warning C4133: “=”: 从“PNODE”到“Node *”的类型不兼容
+C:\Users\WithuL\source\repos\1.21.2\1.21.2\1.21.2.c(42,15): warning C4133: “=”: 从“Node *”到“PNODE”的类型不兼容
+C:\Users\WithuL\source\repos\1.21.2\1.21.2\1.21.2.c(39,1): warning C4133: “初始化”: 从“Node *”到“PNODE”的类型不兼容
+  1.21.2.vcxproj -> C:\Users\WithuL\source\repos\1.21.2\Debug\1.21.2.exe
